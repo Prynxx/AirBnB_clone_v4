@@ -63,7 +63,7 @@ Classes inherited from Base Model:
 
 #### `/tests` directory contains all unit test cases for this project:
 [/test_models/test_base_model.py](/tests/test_models/test_base_model.py) - Contains the TestBaseModel and TestBaseModelDocs classes
-TestBaseModelDocs class:
+    TestBaseModelDocs class:
 * `def setUpClass(cls)`- Set up for the doc tests
 * `def test_pep8_conformance_base_model(self)` - Test that models/base_model.py conforms to PEP8
 * `def test_pep8_conformance_test_base_model(self)` - Test that tests/test_models/test_base_model.py conforms to PEP8
@@ -158,7 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-
+Prynxx Wisdom - [Github](https://github.com/Prynxx) / [Twitter](https://twitter.com/oguziewisdom)
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
